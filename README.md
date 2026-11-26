@@ -5,13 +5,13 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:**
-- **Student ID:**
-- **Section:**
+- **Name:*Mrinmoy Ray*
+- **Student ID:*0112620136*
+- **Section:*F*
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Trimester:**
-- **Instructor:**
+- **Trimester:*2nd*
+- **Instructor:*Hamudi hasan sonet*
 
 ## About This Repository
 
