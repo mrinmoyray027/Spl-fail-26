@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int n, term = 0, sum = 0;
+
+    scanf("%d", &n);
+
+    for (int i = 1; i <= n; i++) {
+        term = term * 10 + i;
+        sum = sum + term;
+    }
+
+    printf("%d", sum);
+
+    return 0;
+}
